@@ -27,5 +27,14 @@ Check the repo's [`README.md`](https://github.com/Atcold/NYU-DLFL22/blob/master/
 ## Lectures
 
 Only the new lessons (either material or presentation) will come online.
+Context similar to the SP21 edition has a 🚫 symbol and is not going to be edited and/or pushed online.
 
 **Legend**: 🖥 slides, 📝 notes, 📓 Jupyter notebook, 🎥 YouTube video.
+
+
+### Theme 1: Introduction
+
+- 00 – Introduction to NYU-DLFL22 [🎥](https://youtu.be/00s9ireCnCw)
+- 01 – History 🚫 (see [🎥](https://youtu.be/mTtDfKgLm54))
+- 02 – Gradient descent and the backpropagation algorithm 🚫 (see [🎥](https://youtu.be/nTlCqaL7fCY))
+- 03 – Resources and neural nets inference [🎥](https://youtu.be/QwZQrxIk6Dg)
