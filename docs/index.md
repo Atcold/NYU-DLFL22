@@ -27,14 +27,27 @@ Check the repo's [`README.md`](https://github.com/Atcold/NYU-DLFL22/blob/master/
 ## Lectures
 
 Only the new lessons (either material or presentation) will come online.
-Context similar to the SP21 edition has a 🚫 symbol and is not going to be edited and/or pushed online.
+<span class="missing">Context similar to the SP21 edition, semitransparent and shown in italic, is not going to be edited and/or pushed online.</span>
 
 **Legend**: 🖥 slides, 📝 notes, 📓 Jupyter notebook, 🎥 YouTube video.
 
+<style>
+.missing {
+    opacity: 0.4;
+    font-style: italic;
+}
+</style>
 
 ### Theme 1: Introduction
 
 - 00 – Introduction to NYU-DLFL22 [🎥](https://youtu.be/00s9ireCnCw)
-- 01 – History 🚫 (see [🎥](https://youtu.be/mTtDfKgLm54))
-- 02 – Gradient descent and the backpropagation algorithm 🚫 (see [🎥](https://youtu.be/nTlCqaL7fCY))
+- <span class="missing"> 01 – History (see [🎥](https://youtu.be/mTtDfKgLm54)) </span>
+- <span class="missing"> 02 – Gradient descent and the backpropagation algorithm (see [🎥](https://youtu.be/nTlCqaL7fCY)) </span>
 - 03 – Resources and neural nets inference [🎥](https://youtu.be/QwZQrxIk6Dg)
+- Classification, an energy perspective
+  - 05 – Notation and introduction [🎥](https://youtu.be/aZYDOB7dy5U)
+
+
+### Theme 2: Parameter sharing
+
+- <span class="missing"> 04 – Recurrent and convolutional nets (see [🎥](https://youtu.be/7dU3TFBJl-0) [🖥 ](https://drive.google.com/file/d/1GtI4ywzI84oamyr_W5k_wzgfRN139aFD/) [📝 ](https://drive.google.com/file/d/12jP4ssUIoGURAU8jGj6QwKXyZVdXW0o6/)) </span>
