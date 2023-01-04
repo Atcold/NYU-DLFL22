@@ -44,10 +44,13 @@ Only the new lessons (either material or presentation) will come online.
 - <span class="missing"> 01 – History (see [🎥](https://youtu.be/mTtDfKgLm54)) </span>
 - <span class="missing"> 02 – Gradient descent and the backpropagation algorithm (see [🎥](https://youtu.be/nTlCqaL7fCY)) </span>
 - 03 – Resources and neural nets inference [🎥](https://youtu.be/QwZQrxIk6Dg)
-- Classification, an energy perspective
-  - 05 – Notation and introduction [🎥](https://youtu.be/aZYDOB7dy5U)
 
 
-### Theme 2: Parameter sharing
+### Theme 2: Classification, an energy perspective
+
+- 05 – Notation and introduction [🎥](https://youtu.be/9cpBu8yt9B8) [🖥 ](https://drive.google.com/file/d/1c0aElks9f9A2PWRNDJO1P_5_n9ODA--o/)
+
+
+### Theme 3: Parameter sharing
 
 - <span class="missing"> 04 – Recurrent and convolutional nets (see [🎥](https://youtu.be/7dU3TFBJl-0) [🖥 ](https://drive.google.com/file/d/1GtI4ywzI84oamyr_W5k_wzgfRN139aFD/) [📝 ](https://drive.google.com/file/d/12jP4ssUIoGURAU8jGj6QwKXyZVdXW0o6/)) </span>
