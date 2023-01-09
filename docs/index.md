@@ -49,6 +49,7 @@ Only the new lessons (either material or presentation) will come online.
 ### Theme 2: Classification, an energy perspective
 
 - 05 – Notation and introduction [🎥](https://youtu.be/9cpBu8yt9B8) [🖥 ](https://drive.google.com/file/d/1c0aElks9f9A2PWRNDJO1P_5_n9ODA--o/)
+- 06 – Backprop and contrastive learning [🎥](https://youtu.be/SC6ljsFFVcY)  [🖥 ](https://drive.google.com/file/d/1c0aElks9f9A2PWRNDJO1P_5_n9ODA--o/)
 
 
 ### Theme 3: Parameter sharing
