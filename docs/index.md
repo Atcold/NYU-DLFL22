@@ -27,7 +27,7 @@ Check the repo's [`README.md`](https://github.com/Atcold/NYU-DLFL22/blob/master/
 ## Lectures
 
 Only the new lessons (either material or presentation) will come online.
-<span class="missing">Context similar to the [SP21 edition](NYU-DLSP21/), semitransparent and shown in italic, is not going to be edited and/or pushed online.</span>
+<span class="missing">Context similar to the [SP21 edition](../NYU-DLSP21/), semitransparent and shown in italic, is not going to be edited and/or pushed online.</span>
 
 **Legend**: 🖥 slides, 📝 notes, 📓 Jupyter notebook, 🎥 YouTube video.
 
