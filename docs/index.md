@@ -60,14 +60,14 @@ hr {
 ### Theme 3: Parameter sharing
 
 - <span class="missing"> 04 – Recurrent and convolutional nets (see [🎥](https://youtu.be/7dU3TFBJl-0) [🖥](https://drive.google.com/file/d/1GtI4ywzI84oamyr_W5k_wzgfRN139aFD/) [📝 ](https://drive.google.com/file/d/12jP4ssUIoGURAU8jGj6QwKXyZVdXW0o6/)) </span>
-- <span class="missing"> 08 – Natural signals, ConvNets kernels and sizes, comparison with fully-connected architecture (see [🎥](https://youtu.be/KvvNkE2vQVk) [🖥](https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/02%20-%20CNN.pdf) [📓](https://github.com/Atcold/pytorch-Deep-Learning/blob/master/06-convnet.ipynb) and [🎥](https://youtu.be/d2GixptaHjk?t=2211)) </span>
-- <span class="missing"> 09 – Recurrent neural nets, vanilla and gated (LSTM) [🎥](https://youtu.be/5KSGNomPJTE) [🖥](https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/04%20-%20RNN.pdf) [📓](https://github.com/Atcold/pytorch-Deep-Learning/blob/master/08-seq_classification.ipynb)[📓](https://github.com/Atcold/pytorch-Deep-Learning/blob/master/09-echo_data.ipynb) ① </span>
+- <span class="missing"> 08 – Natural signals, ConvNets kernels and sizes, comparison with fully-connected architecture (see [🎥](https://youtu.be/KvvNkE2vQVk) [🖥](https://github.com/Atcold/NYU-DLSP20/blob/master/slides/02%20-%20CNN.pdf) [📓](https://github.com/Atcold/NYU-DLSP20/blob/master/06-convnet.ipynb) and [🎥](https://youtu.be/d2GixptaHjk?t=2211)) </span>
+- <span class="missing"> 09 – Recurrent neural nets, vanilla and gated (LSTM) [🎥](https://youtu.be/5KSGNomPJTE) [🖥](https://github.com/Atcold/NYU-DLSP20/blob/master/slides/04%20-%20RNN.pdf) [📓](https://github.com/Atcold/NYU-DLSP20/blob/master/08-seq_classification.ipynb)[📓](https://github.com/Atcold/NYU-DLSP20/blob/master/09-echo_data.ipynb) ① </span>
 
 
 ### Theme 4: Energy-based models, a compendium
 
-- <span class="missing"> 11 – Inference for latent variable energy-based models (LV-EBMs) [🎥](https://youtu.be/xA_OPjRby5g) [🖥](https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/12%20-%20EBM.pdf) </span>
-- <span class="missing"> 13 – Training LV-EBMs [🎥](https://youtu.be/XIMaWj5YjOQ) [🖥](https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/12%20-%20EBM.pdf) </span>
+- <span class="missing"> 11 – Inference for latent variable energy-based models (LV-EBMs) [🎥](https://youtu.be/xA_OPjRby5g) [🖥](https://github.com/Atcold/NYU-DLSP20/blob/master/slides/12%20-%20EBM.pdf) </span>
+- <span class="missing"> 13 – Training LV-EBMs [🎥](https://youtu.be/XIMaWj5YjOQ) [🖥](https://github.com/Atcold/NYU-DLSP20/blob/master/slides/12%20-%20EBM.pdf) </span>
 - 14 – From latent-variable EBMs (K-means, sparse coding), to target propagation to autoencoders [🎥](https://youtu.be/oo9Z9jKJ9iM) [🖥](https://drive.google.com/file/d/1eAFH58VazIdpEPfkD_xDNadQe7Jss_uY/)
 
 ---

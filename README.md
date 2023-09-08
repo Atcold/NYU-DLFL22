@@ -23,10 +23,10 @@ Check out the table of contents on the [class website](https://atcold.github.io/
 Before NYU-DLFL22 there were…
 
 - [NYU-DLSP21](https://github.com/Atcold/NYU-DLSP21/) (best video quality, full course)
-- [NYU-DLSP20](https://github.com/Atcold/pytorch-Deep-Learning) (major release, 16 translations)
-- [NYU-DLSP19](https://github.com/Atcold/pytorch-Deep-Learning/releases/tag/dlsp19)
-- [AIMS-DLFL19](https://github.com/Atcold/pytorch-Deep-Learning/releases/tag/aims-fl18)
-- [CoDaS-HEP18](https://github.com/Atcold/pytorch-Deep-Learning/releases/tag/v1.0.0)
+- [NYU-DLSP20](https://github.com/Atcold/NYU-DLSP20) (major release, 16 translations)
+- [NYU-DLSP19](https://github.com/Atcold/NYU-DLSP20/releases/tag/dlsp19)
+- [AIMS-DLFL19](https://github.com/Atcold/NYU-DLSP20/releases/tag/aims-fl18)
+- [CoDaS-HEP18](https://github.com/Atcold/NYU-DLSP20/releases/tag/v1.0.0)
 - [NYU-DLSP18](https://docs.google.com/document/d/1_p1Mw-NtMGN_vpas_pchLsQC2u0NM5mTnRapBrQ2ivk/)
 - [Purdue-DLFL16](https://docs.google.com/document/d/1ugJRMqQ_cCUQC1B8mSE0iro7sKrDT8-BnppTZv0rA08/)
 - [torch-Video-Tutorials](https://github.com/Atcold/torch-Video-Tutorials)
