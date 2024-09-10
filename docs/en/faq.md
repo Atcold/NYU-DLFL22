@@ -30,12 +30,12 @@ Here are some answers to frequently asked questions:
 > - If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.  
 >  
 > For credit, you can use the following BibTeX:
+> ```bibtex
+> @misc{canziani2022nyudlfl22,  
+>   author = {Canziani, Alfredo & LeCun, Yann},
+>   title = {{NYU Deep Learning, Fall 2022}},
+>   howpublished = "\url{https://atcold.github.io/NYU-DLFL22}",
+>   year = {2022},
+>   note = "[Online; accessed <today>]"
+> }
 > ```
-> @misc{canziani2020nyudlsp21,  
-    author = {Canziani, Alfredo & LeCun, Yann},
-    title = {NYU Deep Learning, Fall 2022},
-    howpublished = "\url{https://github.com/Atcold/NYU-DLFL22}",
-    year = {2021},
-    note = "[Online; accessed <today>]"
-  }
-  ```
